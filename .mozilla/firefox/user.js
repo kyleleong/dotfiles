@@ -127,3 +127,4 @@ user_pref("extensions.htmlaboutaddons.recommendations.enabled", false);
 user_pref("security.dialog_enable_delay", 0);
 user_pref("browser.newtabpage.activity-stream.asrouter.userprefs.cfr.addons", false);
 user_pref("browser.newtabpage.activity-stream.asrouter.userprefs.cfr.features", false);
+user_pref("browser.urlbar.suggest.topsites", false);
