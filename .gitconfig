@@ -1,2 +1,3 @@
 [alias]
         lg = log --graph --pretty --all --oneline
+        cdiff = diff --color-words
